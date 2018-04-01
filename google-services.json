@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "674332291797",
+    "firebase_url": "https://modul6-42818.firebaseio.com",
+    "project_id": "modul6-42818",
+    "storage_bucket": "modul6-42818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674332291797:android:28debd94ec04f392",
+        "android_client_info": {
+          "package_name": "com.example.shinthya.shinthya_1202154311_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674332291797-bqin4g38bhuih2d22tng142kkkfc4fcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA03irKvvwGvLeALgtDtq-1ZEKMl8RTp0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
